@@ -16,7 +16,17 @@
           "schedule": [
             "mon"
           ],
-          "exercises": []
+          "exercises": [
+            {
+              "id": 1781748517658,
+              "type": "strength",
+              "notes": "Rest time 1.00",
+              "name": "Dumbbell Curl",
+              "sets": 3,
+              "reps": "12",
+              "weight": 5
+            }
+          ]
         }
       ]
     }
@@ -42,6 +52,6 @@
   },
   "claimed": [],
   "passes": {},
-  "lastSync": "2026-06-18T02:07:35.586Z",
+  "lastSync": "2026-06-18T02:08:39.659Z",
   "v": 1
 }
