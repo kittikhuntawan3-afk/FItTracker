@@ -8,7 +8,17 @@
       "icon": "🏋️",
       "color": "#f76a6a",
       "active": false,
-      "days": []
+      "days": [
+        {
+          "id": 1781748453583,
+          "name": "ARM Day",
+          "label": "",
+          "schedule": [
+            "mon"
+          ],
+          "exercises": []
+        }
+      ]
     }
   ],
   "weights": [],
@@ -32,6 +42,6 @@
   },
   "claimed": [],
   "passes": {},
-  "lastSync": "2026-06-18T02:07:09.410Z",
+  "lastSync": "2026-06-18T02:07:35.586Z",
   "v": 1
 }
