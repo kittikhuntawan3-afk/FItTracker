@@ -12,9 +12,16 @@
       "prot": 25
     }
   ],
-  "profile": {},
+  "profile": {
+    "age": 20,
+    "height": 172,
+    "weight": 71.5,
+    "gender": "m",
+    "activity": "1.55",
+    "goal": "cut"
+  },
   "claimed": [],
   "passes": {},
-  "lastSync": "2026-06-18T02:05:31.996Z",
+  "lastSync": "2026-06-18T02:06:06.484Z",
   "v": 1
 }
