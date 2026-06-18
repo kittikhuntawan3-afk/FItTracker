@@ -1,6 +1,16 @@
 {
   "workouts": [],
-  "plans": [],
+  "plans": [
+    {
+      "id": 1781748427408,
+      "name": "ยกน้ำหนัก",
+      "desc": "",
+      "icon": "🏋️",
+      "color": "#f76a6a",
+      "active": false,
+      "days": []
+    }
+  ],
   "weights": [],
   "foods": [
     {
@@ -22,6 +32,6 @@
   },
   "claimed": [],
   "passes": {},
-  "lastSync": "2026-06-18T02:06:06.484Z",
+  "lastSync": "2026-06-18T02:07:09.410Z",
   "v": 1
 }
