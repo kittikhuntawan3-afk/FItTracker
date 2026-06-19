@@ -1,57 +1,14 @@
 {
   "workouts": [],
-  "plans": [
-    {
-      "id": 1781748427408,
-      "name": "ยกน้ำหนัก",
-      "desc": "",
-      "icon": "🏋️",
-      "color": "#f76a6a",
-      "active": false,
-      "days": [
-        {
-          "id": 1781748453583,
-          "name": "ARM Day",
-          "label": "",
-          "schedule": [
-            "mon"
-          ],
-          "exercises": [
-            {
-              "id": 1781748517658,
-              "type": "strength",
-              "notes": "Rest time 1.00",
-              "name": "Dumbbell Curl",
-              "sets": 3,
-              "reps": "12",
-              "weight": 5
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "plans": [],
   "weights": [],
-  "foods": [
-    {
-      "id": 1781748329988,
-      "date": "2026-06-18",
-      "meal": "breakfast",
-      "name": "มันสมั่นไก่+ ไก่ย่างบาบิวคิว",
-      "cal": 500,
-      "prot": 25
-    }
-  ],
-  "profile": {
-    "age": 20,
-    "height": 172,
-    "weight": 71.5,
-    "gender": "m",
-    "activity": "1.55",
-    "goal": "cut"
-  },
+  "foods": [],
+  "profile": {},
   "claimed": [],
-  "passes": {},
-  "lastSync": "2026-06-18T02:08:39.659Z",
+  "spent": 0,
+  "shop": {},
+  "bonus": 0,
+  "quests": [],
+  "lastSync": "2026-06-19T01:03:34.511Z",
   "v": 1
 }
